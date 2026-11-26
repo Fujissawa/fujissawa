@@ -9,7 +9,6 @@ Future Cloud Security Engineer. I'm learning networking, cloud infrastructure an
   <a href="https://en.wikipedia.org/wiki/Social_engineering_(security)"><img src="assets/social-engineering.svg" alt="Social Engineering" height="28"></a>
 </p>
 
-## Let's connect 
-<p align="center">
-  <a href="www.linkedin.com/in/erick-fujissawa"<img src="
-
+## Projects
+マッターホルンポモドーロ ー Climb the Matterhorn while you study.
+******************

@@ -1,5 +1,5 @@
 ## Hey there, I'm Erick.
-Future Cloud Security Engineer. I'm learning networking, cloud infrastructure and cybersecurity. I like dogs and mountaineering also.
+Future Cloud Security Engineer. I'm currently learning networking. I like dogs and mountaineering also.
 <p align="center">
   <a href="https://www.python.org"><img src="assets/python.svg" alt="Python" height="28"></a>
   <a href="https://en.wikipedia.org/wiki/SQL"><img src="assets/sql.svg" alt="SQL" height="28"></a>
